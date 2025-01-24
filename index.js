@@ -221,7 +221,7 @@ if (!sock.authState.creds.registered) {
 let addNumber
 if (!!phoneNumber) {
 addNumber = phoneNumber.replace(/[^0-9]/g, '')
-if !Object.keys(PHONENUMBER_MCC).some(v => addNumber.startsWith(v))) {
+if (Object.keys(PHONENUMBER_MCC).some(v => addNumber.startsWith(v))) {
 console.log(chalk.bgBlack(chalk.bold.redBright("🟢 Comience con el código de país de su número de WhatsApp, ejemplo: +59178862672"))) 
 process.exit(0)
 }} else {
