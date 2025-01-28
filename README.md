@@ -16,6 +16,19 @@ contactame
 [![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/KmdZqLz3tva0N5AUDZmsmq)  <a href="https://chat.whatsapp.comKmdZqLz3tva0N5AUDZmsmq"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
+### códigos para instalar:⌨️🧐
+1: apt update && pkg upgrade
+2: apt install nodejs -y
+3: apt install ffmpeg -y
+4: apt install imegemagick -y
+5: apt install yarn 
+6: git clone https://github.com/mayki35/Toribiobot.git
+7: cd Toribiobot 
+8: yarn install 
+9: yarn add form-data
+10: npm install
+11: npm start
+
 ---------
 ### 💻 Propietario y desarrolador del bot👍🏻
 pajinas oficiales 
