@@ -14,7 +14,7 @@ contactame
 ### `—🔥GRUPO OFICIAL`
 
 [![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/KmdZqLz3tva0N5AUDZmsmq)  <a href="https://chat.whatsapp.comKmdZqLz3tva0N5AUDZmsmq"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/KmdZqLz3tva0N5AUDZmsmq)  <a href="https://chat.whatsapp.com/KmdZqLz3tva0N5AUDZmsmq"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 ---------
 ### 💻 Propietario y desarrolador del bot👍🏻
