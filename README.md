@@ -21,5 +21,5 @@ contactame
 pajinas oficiales 
 
 <a href="http://wa.me/51925595067" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="t.me/Maykiabarca" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=telegram&logoColor=blue" />
+<a href="https://t.me/mayki36" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=telegram&logoColor=blue" />
 <a href="https://github.com/mayki35"><img src="https://github.com/mayki35.png" width="300" height="300" alt="mayki36"/></a>
