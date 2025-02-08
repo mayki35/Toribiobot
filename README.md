@@ -1,4 +1,4 @@
-###🚀Toribiobot-v1.0.0✨"en desarrollo
+### 🚀Toribiobot-v1.0.0✨"en desarrollo
 
 <p align="center">
 <img src="https://github.com/mayki35" alt="TORIBIOBOT" width="900"/>
